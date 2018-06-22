@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "game-of-life-logic": "1.0.0",
+    "ln-service": "5.0.0",
+    "pngjs": "3.3.3",
+    "socket.io-client": "2.1.1",
+    "walnut": "0.0.4"
+  },
+  "engines": {
+    "node": "8.11.2",
+    "npm": "6.1.0"
+  },
+  "name": "ln-satoshislife",
+  "scripts": {
+    "start": "node server"
+  },
+  "version": "0.0.1"
+}
